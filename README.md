@@ -1,3 +1,4 @@
+https://askcos.mit.edu/
 # November 2023 Update
 
 We have fully migrated the application and all of its interfaces, underlying models, etc. to Gitlab. Please see https://gitlab.com/mlpds_mit/askcosv2/askcos2_core for instructions on deployment; components in their own repositories will be automatically pulled during setup based on the provided config file in the askcos2_core repo.
